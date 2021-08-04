@@ -1,0 +1,44 @@
+.container-fluid{
+                margin-top: 150px;
+                margin-bottom: 150px;
+                margin-left: 150px;
+                margin-right: 150px;    
+            }
+            
+.jumbotron{
+                padding:5px 5px 5px 5px;
+                margin: auto;
+                text-align:center;
+                border-collapse: collapse;
+            } 
+.modal-content{
+    background-color:white;
+    color: black !important;
+    text-align: left;
+   }
+
+body{
+     background-image: url("../images/background-image.jpg");
+}   
+
+ footer{
+           padding-top: 10px; 
+           padding-bottom:10px ;
+           background-color: #101010;
+           color:#9d9d9d;
+           bottom: 0;
+           width: 100%;
+           
+           }
+           
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    padding:15px;
+    border: 1px solid #a4a4a4;
+    height: 30px;
+}           
+          
